@@ -1,0 +1,66 @@
+﻿@model ActividadesComplementarias.Models.grupo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>grupo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre_grupo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.nombre_grupo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.capacidad)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.capacidad)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.hora_inicial)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.hora_inicial)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.hora_final)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.hora_final)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.instructor_idinstructor)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.instructor_idinstructor)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.area_idarea)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.area_idarea)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.actividad_idactividad)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.actividad_idactividad)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.periodo_idperiodo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.periodo_idperiodo)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.idgrupo">Editar</a> |
+    <a asp-action="Index">Regresar al listado</a>
+</div>

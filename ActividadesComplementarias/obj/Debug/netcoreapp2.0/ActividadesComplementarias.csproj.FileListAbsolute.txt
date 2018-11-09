@@ -1,0 +1,11 @@
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\bin\Debug\netcoreapp2.0\ActividadesComplementarias.deps.json
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\bin\Debug\netcoreapp2.0\ActividadesComplementarias.runtimeconfig.json
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\bin\Debug\netcoreapp2.0\ActividadesComplementarias.runtimeconfig.dev.json
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\bin\Debug\netcoreapp2.0\ActividadesComplementarias.dll
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\obj\Debug\netcoreapp2.0\ActividadesComplementarias.csprojAssemblyReference.cache
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\obj\Debug\netcoreapp2.0\ActividadesComplementarias.csproj.CoreCompileInputs.cache
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\obj\Debug\netcoreapp2.0\ActividadesComplementarias.AssemblyInfoInputs.cache
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\obj\Debug\netcoreapp2.0\ActividadesComplementarias.AssemblyInfo.cs
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\bin\Debug\netcoreapp2.0\ActividadesComplementarias.pdb
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\obj\Debug\netcoreapp2.0\ActividadesComplementarias.dll
+C:\Users\7\source\repos\ActividadesComplementarias\ActividadesComplementarias\obj\Debug\netcoreapp2.0\ActividadesComplementarias.pdb
